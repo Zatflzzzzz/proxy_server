@@ -10,7 +10,7 @@
 
 после запуска сервер начнет проксировать все входящие в него запросы:
 
-![изображение](https://github.com/user-attachments/assets/1d976573-8e85-4867-92fb-93f8770828a8)
+![изображение](https://github.com/user-attachments/assets/430316e8-c74a-465b-9459-e70f745e1adc)
 
 wireshark:
 
